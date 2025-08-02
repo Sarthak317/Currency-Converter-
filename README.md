@@ -36,8 +36,8 @@ This simple yet powerful converter lets you switch between different currencies 
 - **HTML5** — Basic structure and elements
 - **CSS3** — Responsive layout and styling
 - **JavaScript (Vanilla)** — Logic, fetch API, DOM manipulation
-- **[ExchangeRate API](https://www.exchangerate-api.com/)** – Real-time exchange rate data  
-- **[Country Flags API](https://www.exchangerate-api.com/docs/free)** – Displaying country flags based on selected currency  
+- **[ExchangeRate API](https://www.exchangerate-api.com/docs/free)** – Real-time exchange rate data  
+- **[Country Flags API](https://flagsapi.com/)** – Displaying country flags based on selected currency  
 
 
 ---
